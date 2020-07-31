@@ -11,7 +11,7 @@ css
 javascript
 nodejs
 
-ide:
+cmdline:
 termux
 
 will be posting tutorials with 
