@@ -11,8 +11,11 @@ css
 javascript
 nodejs
 
+ide:
+termux
+
 will be posting tutorials with 
-source code.
+source code here.
 
 coming soon
 
